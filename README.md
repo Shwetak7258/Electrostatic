@@ -20,8 +20,13 @@ This project provides a Python tool to simulate electric fields and potentials g
 ## Theory
 #### Electric Field: 
 The electric field E around a charge is a vector field that represents the force per unit charge exerted on a positive test charge placed in the field. It is defined as:
-<br>
+
                        E=F/q
+
+#### Electric Potential:
+The electric potential V at a point in an electric field is the work done in bringing a unit positive charge from infinity to that point, without any acceleration. It is given by:
+               
+                       V=k⋅Q/r
 
 ## Usage examples
 ### 1. Basic Simulation of Electric Potential and Field
