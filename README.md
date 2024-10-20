@@ -27,6 +27,7 @@ The electric field E around a charge is a vector field that represents the force
 The electric potential V at a point in an electric field is the work done in bringing a unit positive charge from infinity to that point, without any acceleration. It is given by:
                
                        V=k⋅Q/r
+For multiple point charges, the total potential is the sum of the potentials due to each charge.
 
 ## Usage examples
 ### 1. Basic Simulation of Electric Potential and Field
